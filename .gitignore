@@ -1,0 +1,12 @@
+venv/
+pycache/
+.ipynb_checkpoints/
+
+data/raw/
+data/processed/
+
+*.csv
+*.pkl
+*.joblib
+
+.DS_Store
